@@ -1,7 +1,13 @@
 <h1 align="center">Challenge ONE Sprint 01:
 Construa um decodificador de texto com Javascript</h1>
 
-<!-- TABLE OF CONTENTS -->
+<div align="center">
+  <h3>
+    <a href="https://joellhss.github.io/challenge-one-sprint-01/">
+        Página demonstrativa
+    </a>
+  </h3>
+</div>
 
 ## Table of Contents
 
@@ -14,7 +20,7 @@ Construa um decodificador de texto com Javascript</h1>
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/joellhss/challenge-one-sprint-01/blob/main/assets/Captura%20de%20tela%20de%202022-08-08%2019-10-54.png?raw=true)
 
 Este projeto foi desenvolvido com o objetivo de cumprir o desafio "Challenge ONE Sprint 01" e de praticar os conteúdos aprendidos na trilha 1: "Iniciante em Programação T3 - ONE".
 
