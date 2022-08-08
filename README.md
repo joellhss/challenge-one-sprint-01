@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com o objetivo de cumprir o desafio "Challenge ONE
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-Durante o projeto foram praticados conceitos básicos de lógica de programação em JavaScript e ed estruturação e estilização de páginas web com HTML5 e CSS3.
+Durante o projeto foram praticados conceitos básicos de lógica de programação em JavaScript e de estruturação e estilização de páginas web com HTML5 e CSS3.
 
 ## Contact
 
